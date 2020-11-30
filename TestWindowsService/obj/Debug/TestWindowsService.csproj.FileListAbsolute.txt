@@ -14,13 +14,12 @@ C:\Users\ulqrb\source\repos\TestWindowsService\TestWindowsService\obj\Debug\Test
 F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe.config
 F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
 F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.pdb
-F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\Class.dll
-F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\Interface.dll
-F:\Repositories\TestWindowsService\TestWindowsService\obj\Debug\TestWindowsService.csprojAssemblyReference.cache
 F:\Repositories\TestWindowsService\TestWindowsService\obj\Debug\TestWindowsService.ProjectInstaller.resources
 F:\Repositories\TestWindowsService\TestWindowsService\obj\Debug\TestWindowsService.TestService.resources
 F:\Repositories\TestWindowsService\TestWindowsService\obj\Debug\TestWindowsService.csproj.GenerateResource.cache
 F:\Repositories\TestWindowsService\TestWindowsService\obj\Debug\TestWindowsService.csproj.CoreCompileInputs.cache
-F:\Repositories\TestWindowsService\TestWindowsService\obj\Debug\TestWindowsService.csproj.CopyComplete
 F:\Repositories\TestWindowsService\TestWindowsService\obj\Debug\TestWindowsService.exe
 F:\Repositories\TestWindowsService\TestWindowsService\obj\Debug\TestWindowsService.pdb
+F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\Class.dll
+F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\Interface.dll
+F:\Repositories\TestWindowsService\TestWindowsService\obj\Debug\TestWindowsService.csproj.CopyComplete
