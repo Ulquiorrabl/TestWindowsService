@@ -23,3 +23,4 @@ F:\Repositories\TestWindowsService\TestWindowsService\obj\Debug\TestWindowsServi
 F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\Class.dll
 F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\Interface.dll
 F:\Repositories\TestWindowsService\TestWindowsService\obj\Debug\TestWindowsService.csproj.CopyComplete
+F:\Repositories\TestWindowsService\TestWindowsService\obj\Debug\TestWindowsService.csprojAssemblyReference.cache

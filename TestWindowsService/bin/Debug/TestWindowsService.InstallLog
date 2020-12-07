@@ -772,3 +772,24 @@ Affected parameters are:
 Removing EventLog source TestService.
 Service TestService is being removed from the system...
 Service TestService was successfully removed from the system.
+Installing assembly 'F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+   logfile = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+Installing service TestService...
+Service TestService has been successfully installed.
+Creating EventLog source TestService in log Application...
+Committing assembly 'F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+   logfile = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+Uninstalling assembly 'F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+   logfile = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+Removing EventLog source TestService.
+Service TestService is being removed from the system...
+Service TestService was successfully removed from the system.

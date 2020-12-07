@@ -14,15 +14,15 @@ namespace TestWindowsService
 {
     public partial class TestService : ServiceBase
     {
-        NumReturner returner;
-        public TestService()
+        INumReturner returner;
+        public TestService(INumReturner returner)
         {
             InitializeComponent();
+            this.returner = returner;
         }
 
         protected override void OnStart(string[] args)
         {
-            returner = new NumReturner();
             returner.Number += NumLog;
             returner.GiveNumber(125);
         }
