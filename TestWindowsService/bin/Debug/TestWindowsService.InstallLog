@@ -764,3 +764,11 @@ Affected parameters are:
    logtoconsole = 
    assemblypath = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
    logfile = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+Uninstalling assembly 'F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+   logfile = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+Removing EventLog source TestService.
+Service TestService is being removed from the system...
+Service TestService was successfully removed from the system.
