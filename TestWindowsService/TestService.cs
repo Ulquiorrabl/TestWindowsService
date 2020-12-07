@@ -9,34 +9,66 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Timers;
 using System.IO;
+using System.Reflection;
 
 namespace TestWindowsService
 {
     public partial class TestService : ServiceBase
     {
-        INumReturner returner;
-        public TestService(INumReturner returner)
+        private List<INumReturner> returnList;
+        private readonly string directory = @"C:\TestService";
+        public TestService()
         {
             InitializeComponent();
-            this.returner = returner;
         }
 
         protected override void OnStart(string[] args)
         {
-            returner.Number += NumLog;
-            returner.GiveNumber(125);
+            Log("Service started!");
+            returnList = new List<INumReturner>();
+            LoadPlugin();
+            for (int i = 0; i < returnList.Count(); i++)
+            {
+                returnList[i].Number += NumLog;
+                returnList[i].GiveNumber(i);
+            }
         }
 
-        protected void NumLog(object sender, int num)
+        void Log(string message)
         {
-            string path = @"C:\TestService";
-            if (!Directory.Exists(path))
-                Directory.CreateDirectory(path);
+            if (!Directory.Exists(directory))
+                Directory.CreateDirectory(directory);
 
-            string filePath = String.Format("{0}\\ServiceLog.txt", path);
-            using (StreamWriter file = new StreamWriter(filePath))
+            string filePath = String.Format("{0}\\ServiceLog.txt", directory);
+            using (StreamWriter file = new StreamWriter(filePath, true))
             {
-                file.WriteLine("Number Received: {0}", num);
+                file.WriteLine(message + " ==" + DateTime.Now.ToString("h:mm:ss tt") + "==");
+            }
+        }
+
+        void NumLog(object sender, int num)
+        {
+            Log("Num returned " + num);
+        }
+        void LoadPlugin()
+        {
+            string path = Path.Combine(directory, "plugins");
+            if (!Directory.Exists(path))
+            {
+                Directory.CreateDirectory(path);
+            }
+            var libraries = Directory.GetFiles(path);
+            foreach (var library in libraries)
+            {
+                Assembly asm = Assembly.LoadFrom(library);
+                var types = asm.GetTypes().
+                           Where(t => t.GetInterfaces().
+                           Where(i => i.FullName == typeof(INumReturner).FullName).Any());
+                foreach (var type in types)
+                {
+                    var plugin = asm.CreateInstance(type.FullName) as INumReturner;
+                    returnList.Add(plugin);
+                }
             }
         }
 

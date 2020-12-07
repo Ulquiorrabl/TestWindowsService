@@ -33,9 +33,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Class">
-      <HintPath>dlls\Class.dll</HintPath>
-    </Reference>
     <Reference Include="Interface">
       <HintPath>dlls\Interface.dll</HintPath>
     </Reference>
@@ -79,4 +76,8 @@
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+  </PropertyGroup>
 </Project>

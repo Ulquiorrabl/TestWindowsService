@@ -21,6 +21,21 @@ namespace TestWindowsService
             base.Dispose(disposing);
         }
 
+        void InstallDlls()
+        {
+            string serviceDir = @"C:\TestService\plugins";
+            if (!System.IO.Directory.Exists(serviceDir))
+            {
+                System.IO.Directory.CreateDirectory(serviceDir);
+            }
+            string dir = System.IO.Path.Combine(System.IO.Directory.GetCurrentDirectory(), "plugins");
+            var files = System.IO.Directory.GetFiles(dir);
+            foreach(var file in files)
+            {
+               System.IO.File.Copy(file, System.IO.Path.Combine(serviceDir, System.IO.Path.GetFileName(file)), true);
+            }
+        }
+
         #region Component Designer generated code
 
         /// <summary>
@@ -29,6 +44,7 @@ namespace TestWindowsService
         /// </summary>
         private void InitializeComponent()
         {
+            InstallDlls();
             this.serviceProcessInstaller1 = new System.ServiceProcess.ServiceProcessInstaller();
             this.serviceInstaller1 = new System.ServiceProcess.ServiceInstaller();
             // 

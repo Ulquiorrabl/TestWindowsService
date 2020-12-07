@@ -17,7 +17,7 @@ namespace TestWindowsService
             ServiceBase[] ServicesToRun;
             ServicesToRun = new ServiceBase[]
             {
-                new TestService(new NumReturner())
+                new TestService()
 
             };
             ServiceBase.Run(ServicesToRun);

@@ -793,3 +793,247 @@ Affected parameters are:
 Removing EventLog source TestService.
 Service TestService is being removed from the system...
 Service TestService was successfully removed from the system.
+Installing assembly 'F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+   logfile = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+Installing service TestService...
+Service TestService has been successfully installed.
+Creating EventLog source TestService in log Application...
+Committing assembly 'F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+   logfile = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+Uninstalling assembly 'F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+   logfile = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+Removing EventLog source TestService.
+Service TestService is being removed from the system...
+Service TestService was successfully removed from the system.
+Installing assembly 'F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+   logfile = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+Installing service TestService...
+Service TestService has been successfully installed.
+Creating EventLog source TestService in log Application...
+Committing assembly 'F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+   logfile = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+Uninstalling assembly 'F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+   logfile = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+Removing EventLog source TestService.
+Service TestService is being removed from the system...
+Service TestService was successfully removed from the system.
+Attempt to stop service TestService.
+Installing assembly 'F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+   logfile = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+Installing service TestService...
+Service TestService has been successfully installed.
+Creating EventLog source TestService in log Application...
+Committing assembly 'F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+   logfile = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+Uninstalling assembly 'F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+   logfile = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+Removing EventLog source TestService.
+Service TestService is being removed from the system...
+Service TestService was successfully removed from the system.
+Installing assembly 'F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+   logfile = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+Installing service TestService...
+Service TestService has been successfully installed.
+Creating EventLog source TestService in log Application...
+Committing assembly 'F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+   logfile = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+Uninstalling assembly 'F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+   logfile = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+Removing EventLog source TestService.
+Service TestService is being removed from the system...
+Service TestService was successfully removed from the system.
+Attempt to stop service TestService.
+Installing assembly 'F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+   logfile = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+Installing service TestService...
+Service TestService has been successfully installed.
+Creating EventLog source TestService in log Application...
+Committing assembly 'F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+   logfile = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+Uninstalling assembly 'F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+   logfile = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+Removing EventLog source TestService.
+Service TestService is being removed from the system...
+Service TestService was successfully removed from the system.
+Attempt to stop service TestService.
+Installing assembly 'F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+   logfile = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+Installing service TestService...
+Service TestService has been successfully installed.
+Creating EventLog source TestService in log Application...
+Committing assembly 'F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+   logfile = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+Uninstalling assembly 'F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+   logfile = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+Removing EventLog source TestService.
+Service TestService is being removed from the system...
+Service TestService was successfully removed from the system.
+Attempt to stop service TestService.
+Installing assembly 'F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+   logfile = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+Installing service TestService...
+Service TestService has been successfully installed.
+Creating EventLog source TestService in log Application...
+Committing assembly 'F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+   logfile = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+Uninstalling assembly 'F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+   logfile = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+Removing EventLog source TestService.
+Service TestService is being removed from the system...
+Service TestService was successfully removed from the system.
+Attempt to stop service TestService.
+Installing assembly 'F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+   logfile = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+Installing service TestService...
+Service TestService has been successfully installed.
+Creating EventLog source TestService in log Application...
+Committing assembly 'F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+   logfile = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+Uninstalling assembly 'F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+   logfile = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+Unable to create an instance of the TestWindowsService.ProjectInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.IO.IOException was thrown with the following error message: The process cannot access the file 'C:\TestService\plugins\Class.dll' because it is being used by another process..
+Uninstalling assembly 'F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+   logfile = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+Removing EventLog source TestService.
+Service TestService is being removed from the system...
+Service TestService was successfully removed from the system.
+Installing assembly 'F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+   logfile = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+Installing service TestService...
+Service TestService has been successfully installed.
+Creating EventLog source TestService in log Application...
+Committing assembly 'F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+   logfile = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+Installing assembly 'F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+   logfile = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+Installing service TestService...
+Creating EventLog source TestService in log Application...
+Rolling back assembly 'F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+   logfile = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+Restoring event log to previous state for source TestService.
+Uninstalling assembly 'F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+   logfile = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+Removing EventLog source TestService.
+Service TestService is being removed from the system...
+Service TestService was successfully removed from the system.
+Installing assembly 'F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+   logfile = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+Installing service TestService...
+Service TestService has been successfully installed.
+Creating EventLog source TestService in log Application...
+Committing assembly 'F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+   logfile = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+Uninstalling assembly 'F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+   logfile = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+Unable to create an instance of the TestWindowsService.ProjectInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.IO.IOException was thrown with the following error message: The process cannot access the file 'C:\TestService\plugins\Class.dll' because it is being used by another process..
+Uninstalling assembly 'F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+   logfile = F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+Removing EventLog source TestService.
+Service TestService is being removed from the system...
+Service TestService was successfully removed from the system.

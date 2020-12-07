@@ -20,7 +20,5 @@ F:\Repositories\TestWindowsService\TestWindowsService\obj\Debug\TestWindowsServi
 F:\Repositories\TestWindowsService\TestWindowsService\obj\Debug\TestWindowsService.csproj.CoreCompileInputs.cache
 F:\Repositories\TestWindowsService\TestWindowsService\obj\Debug\TestWindowsService.exe
 F:\Repositories\TestWindowsService\TestWindowsService\obj\Debug\TestWindowsService.pdb
-F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\Class.dll
 F:\Repositories\TestWindowsService\TestWindowsService\bin\Debug\Interface.dll
 F:\Repositories\TestWindowsService\TestWindowsService\obj\Debug\TestWindowsService.csproj.CopyComplete
-F:\Repositories\TestWindowsService\TestWindowsService\obj\Debug\TestWindowsService.csprojAssemblyReference.cache
